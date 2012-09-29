@@ -4,5 +4,12 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_groups">Groups</string>
-
+    <string name="lable_group_name">Group Name</string>
+	<string name="hint_groupName">e.g. Roommates</string>
+	<string name="lable_group_member">Add Member</string>
+	<string name="hint_group_member_name">Bob</string>
+	<string name="lable_add_member">Add Member</string>
+	<string name="lbl_member_name">Name</string>
+	<string name="lbl_member_email">Email</string>
+	<string name="lbl_member_contactno">Contact No</string>
 </resources>
